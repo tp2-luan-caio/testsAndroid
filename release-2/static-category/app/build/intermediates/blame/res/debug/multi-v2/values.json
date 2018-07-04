@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\static-category1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\static-category1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,20,31,30,32,2,34,18,10,12,13,11,8,9,14,16,17,15,6,7,22,24,25,23,19,27,28",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "149,104,943,1492,1442,1546,55,1640,847,432,531,584,477,314,365,642,736,789,687,216,261,1025,1132,1192,1079,900,1284,1343",
+                        "endColumns": "33,43,45,52,48,62,47,46,51,43,51,56,52,49,65,43,51,56,47,43,51,52,58,54,51,41,57,59",
+                        "endOffsets": "180,145,986,1542,1488,1606,100,1684,896,473,580,638,527,361,428,683,785,843,732,257,310,1075,1188,1244,1128,939,1339,1400"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,144,190,238,293,344,409,459,508,562,608,662,721,776,828,896,942,996,1055,1105,1151,1205,1260,1321,1378,1432,1476,1536",
+                        "endColumns": "35,45,47,54,50,64,49,48,53,45,53,58,54,51,67,45,53,58,49,45,53,54,60,56,53,43,59,61",
+                        "endOffsets": "139,185,233,288,339,404,454,503,557,603,657,716,771,823,891,937,991,1050,1100,1146,1200,1255,1316,1373,1427,1471,1531,1593"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\static-category1\\app\\src\\main\\res\\values\\styles_reminder.xml",
+                    "from": {
+                        "startLines": "18,25,38,52,34,42,30,48,3,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1134,1598,2281,3068,2074,2482,1875,2859,59,3356",
+                        "endLines": "23,28,40,54,36,46,32,50,16,60",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "1590,1867,2474,3267,2273,2851,2066,3060,1126,3611"
+                    },
+                    "to": {
+                        "startLines": "31,37,41,44,47,50,55,58,61,75",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1598,2054,2325,2521,2723,2925,3295,3489,3693,4752",
+                        "endLines": "36,40,43,46,49,54,57,60,74,78",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "2049,2320,2516,2718,2920,3290,3484,3688,4747,5004"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\static-category1\\app\\src\\main\\res\\values\\colors_reminder.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "52",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                }
+            ]
+        }
+    ]
+}
