@@ -1,382 +1,382 @@
 [
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_selected_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\tab_selected_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_reminder.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\add_reminder.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_dropdown_item.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\layout\\spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_cab_done_default_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\btn_cab_done_default_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_primary_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\progress_primary_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_primary_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\progress_primary_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_hardkey_panel_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\menu_hardkey_panel_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_secondary_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminder_row.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\layout\\reminder_row.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_default_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_default_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_bottom_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_stacked_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\ab_stacked_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_bottom_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_cab_done_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\btn_cab_done_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_progress_secondary_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\progress_secondary_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\menu_reminder_list_fragment_context_menu.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\menu\\reminder_list_fragment_context_menu.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selectable_background_reminder.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable\\selectable_background_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_cab_done_default_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\btn_cab_done_default_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_cab_done_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\btn_cab_done_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_unselected_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\tab_unselected_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\progress_bg_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_reminder.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\add_reminder.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_primary_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_bottom_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\ab_bottom_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminders_list_fragment.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\layout\\reminders_list_fragment.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_hardkey_panel_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\menu_hardkey_panel_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\list_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_selected_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\tab_selected_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_disabled_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_disabled_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cab_background_top_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\cab_background_top_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_transparent_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_secondary_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminders_main_activity.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\layout\\reminders_main_activity.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\layout\\spinner_item.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_stacked_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\ab_stacked_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_progress_primary_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\progress_primary_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\list_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_hardkey_panel_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\menu_hardkey_panel_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\list_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_default_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_disabled_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_disabled_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_bottom_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_primary_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_top_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_dropdown_panel_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\menu_dropdown_panel_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_bottom_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\ab_bottom_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_stacked_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_background_ab_reminder.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable\\spinner_background_ab_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\ab_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_bottom_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\ab_bottom_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_bg_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_dropdown_panel_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\menu_dropdown_panel_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\menu_action_bar_menu.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\menu\\action_bar_menu.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_selected_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\tab_selected_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_ab_reminder.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable\\tab_indicator_ab_reminder.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selectable_background_reminder.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable\\selectable_background_reminder.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_progress_bg_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\progress_bg_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_horizontal_reminder.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable\\progress_horizontal_reminder.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_transparent_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_background_ab_reminder.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable\\spinner_background_ab_reminder.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_progress_primary_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\progress_primary_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_facebook.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\facebook.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_reminder.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\add_reminder.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_stacked_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\menu_action_bar_menu.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\menu\\action_bar_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_disabled_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_transparent_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_cab_done_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\btn_cab_done_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_transparent_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\ab_transparent_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_unselected_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\tab_unselected_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cab_done_reminder.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable\\btn_cab_done_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_top_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\cab_background_top_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_unselected_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\tab_unselected_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_bottom_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\cab_background_bottom_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_progress_secondary_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\progress_secondary_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_reminder.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\add_reminder.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_selected_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\tab_selected_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_background_reminder.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable\\pressed_background_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_dropdown_panel_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_bg_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_hardkey_panel_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\menu_hardkey_panel_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\facebook.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_disabled_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_stacked_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\layout\\spinner_item.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminder_add.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\layout\\reminder_add.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cab_background_bottom_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\cab_background_bottom_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btn_cab_done_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\btn_cab_done_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cab_done_reminder.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable\\btn_cab_done_reminder.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\menu_reminder_list_fragment_context_menu.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\menu\\reminder_list_fragment_context_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_reminder.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\add_reminder.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminders_main_activity.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\layout\\reminders_main_activity.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_secondary_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_unselected_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\tab_unselected_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_transparent_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_hardkey_panel_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\menu_hardkey_panel_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\layout\\spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cab_background_top_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\cab_background_top_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_hardkey_panel_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\menu_hardkey_panel_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_default_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_default_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_default_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_default_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_progress_bg_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\progress_bg_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_ab_reminder.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable\\tab_indicator_ab_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminder_add.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\layout\\reminder_add.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_secondary_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_reminder.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\add_reminder.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_transparent_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\ab_transparent_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\list_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_facebook.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\facebook.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_stacked_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_disabled_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_disabled_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_disabled_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_disabled_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_default_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_default_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_dropdown_panel_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\menu_dropdown_panel_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminders_list_fragment.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\layout\\reminders_list_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\list_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\ab_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_bottom_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\cab_background_bottom_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cab_background_bottom_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\cab_background_bottom_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_default_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_default_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_default_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_default_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spinner_ab_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\spinner_ab_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\list_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_dropdown_panel_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\menu_dropdown_panel_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\layout_reminder_row.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\layout\\reminder_row.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_default_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_default_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ab_bottom_solid_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\ab_bottom_solid_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_selected_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-ldpi\\tab_selected_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_horizontal_reminder.xml.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable\\progress_horizontal_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pressed_background_reminder.xml.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable\\pressed_background_reminder.xml"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_top_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_facebook.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\facebook.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_facebook.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\facebook.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\progress_bg_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_selected_pressed_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-ldpi\\tab_selected_pressed_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_pressed_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_pressed_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_bottom_solid_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_top_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\cab_background_top_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_default_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_focused_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_focused_reminder.9.png"
     },
     {
-        "merged": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_focused_reminder.9.png.flat",
-        "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-2\\base2\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_reminder.9.png"
+        "merged": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_dropdown_panel_reminder.9.png.flat",
+        "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-2\\base\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_reminder.9.png"
     }
 ]

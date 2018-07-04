@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date1\\app\\src\\main\\res\\values\\colors_reminder.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "59",
-                        "endColumns": "52",
-                        "endOffsets": "107"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "52",
-                        "endOffsets": "103"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date1\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "4,3,19,30,29,31,2,33,10,12,13,11,8,9,14,16,17,15,6,7,21,23,24,22,18,26,27",
                         "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date1\\app\\src\\main\\res\\values\\styles_reminder.xml",
+                    "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date\\app\\src\\main\\res\\values\\styles_reminder.xml",
                     "from": {
                         "startLines": "18,25,38,52,34,42,30,48,3,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -54,6 +37,23 @@
                         "endLines": "35,39,42,45,48,53,56,59,73,77",
                         "endColumns": "12,12,12,12,12,12,12,12,12,12",
                         "endOffsets": "1995,2266,2462,2664,2866,3236,3430,3634,4693,4950"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-3\\fixed-date\\app\\src\\main\\res\\values\\colors_reminder.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "52",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
                     }
                 }
             ]

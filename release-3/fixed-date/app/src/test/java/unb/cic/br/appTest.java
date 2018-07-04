@@ -1,13 +1,18 @@
 package unb.cic.br;
 
+import android.content.Context;
+
 import org.junit.Test;
 import java.util.regex.Pattern;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertTrue;
+
+import br.unb.cic.reminders.controller.AllRemindersFilter;
+
+import static org.junit.Assert.*;
 
 public class appTest {
     @Test
-    public void firstTest() {
-        assertFalse(1 < 0);
+    public void getNameAllRemindersFilter() {
+
+
     }
 }
