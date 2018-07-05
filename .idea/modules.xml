@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-manage/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-manage/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/manage-category/app/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/release-2/manage-category/app/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-1/base/app/build/generated/source/buildConfig/buildConfig2.iml" filepath="$PROJECT_DIR$/release-1/base/app/build/generated/source/buildConfig/buildConfig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/static-category/app/build/generated/source/buildConfig/buildConfig3.iml" filepath="$PROJECT_DIR$/release-2/static-category/app/build/generated/source/buildConfig/buildConfig3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date/app/build/generated/source/buildConfig/buildConfig4.iml" filepath="$PROJECT_DIR$/release-3/fixed-date/app/build/generated/source/buildConfig/buildConfig4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-static/app/build/generated/source/buildConfig/buildConfig5.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-static/app/build/generated/source/buildConfig/buildConfig5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/base/app/build/generated/source/buildConfig/buildConfig6.iml" filepath="$PROJECT_DIR$/release-2/base/app/build/generated/source/buildConfig/buildConfig6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date/app/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/release-3/fixed-date/app/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/base/app/src/main/main.iml" filepath="$PROJECT_DIR$/release-2/base/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-static/app/src/main/main1.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-static/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-1/base/app/src/main/main2.iml" filepath="$PROJECT_DIR$/release-1/base/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/static-category/app/src/main/main3.iml" filepath="$PROJECT_DIR$/release-2/static-category/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/manage-category/app/src/main/main4.iml" filepath="$PROJECT_DIR$/release-2/manage-category/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date/app/src/main/main5.iml" filepath="$PROJECT_DIR$/release-3/fixed-date/app/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-manage/app/src/main/main6.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-manage/app/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/base/app/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/release-2/base/app/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-manage/app/build/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-manage/app/build/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/static-category/app/build/generated/source/r/r2.iml" filepath="$PROJECT_DIR$/release-2/static-category/app/build/generated/source/r/r2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-1/base/app/build/generated/source/r/r3.iml" filepath="$PROJECT_DIR$/release-1/base/app/build/generated/source/r/r3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date/app/build/generated/source/r/r4.iml" filepath="$PROJECT_DIR$/release-3/fixed-date/app/build/generated/source/r/r4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-static/app/build/generated/source/r/r5.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-static/app/build/generated/source/r/r5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/manage-category/app/build/generated/source/r/r6.iml" filepath="$PROJECT_DIR$/release-2/manage-category/app/build/generated/source/r/r6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-1/base/app/src/test/test.iml" filepath="$PROJECT_DIR$/release-1/base/app/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/manage-category/app/src/test/test1.iml" filepath="$PROJECT_DIR$/release-2/manage-category/app/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-static/app/src/test/test2.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-static/app/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/static-category/app/src/test/test3.iml" filepath="$PROJECT_DIR$/release-2/static-category/app/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date-manage/app/src/test/test4.iml" filepath="$PROJECT_DIR$/release-3/fixed-date-manage/app/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-3/fixed-date/app/src/test/test5.iml" filepath="$PROJECT_DIR$/release-3/fixed-date/app/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/release-2/base/app/src/test/test6.iml" filepath="$PROJECT_DIR$/release-2/base/app/src/test/test6.iml" />
+    </modules>
+  </component>
+</project>
