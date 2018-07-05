@@ -1,0 +1,4 @@
+#Wed Jul 04 21:01:56 BRT 2018
+base.0=/home/caio/TP2/testes/testsAndroid/release-3/fixed-date/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
