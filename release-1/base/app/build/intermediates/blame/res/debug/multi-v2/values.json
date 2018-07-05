@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\src\\main\\res\\values\\styles_reminder.xml",
+                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,20,33,32,34,2,36,10,12,13,11,8,9,14,16,17,15,6,7,22,24,26,23,19,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "155,108,928,1503,1451,1559,57,1657,450,553,608,497,328,381,668,766,821,715,226,273,1014,1125,1189,1070,883,1287,1348",
+                        "endColumns": "35,45,47,54,50,64,49,48,45,53,58,54,51,67,45,53,58,49,45,53,54,60,56,53,43,59,61",
+                        "endOffsets": "186,149,971,1553,1497,1619,102,1701,491,602,662,547,375,444,709,815,875,760,267,322,1064,1181,1241,1119,922,1342,1405"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,144,190,238,293,344,409,459,508,554,608,667,722,774,842,888,942,1001,1051,1097,1151,1206,1267,1324,1378,1422,1482",
+                        "endColumns": "35,45,47,54,50,64,49,48,45,53,58,54,51,67,45,53,58,49,45,53,54,60,56,53,43,59,61",
+                        "endOffsets": "139,185,233,288,339,404,454,503,549,603,662,717,769,837,883,937,996,1046,1092,1146,1201,1262,1319,1373,1417,1477,1539"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\src\\main\\res\\values\\styles_reminder.xml",
                     "from": {
                         "startLines": "18,25,38,52,34,42,30,48,3,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,24 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "4,3,20,33,32,34,2,36,10,12,13,11,8,9,14,16,17,15,6,7,22,24,26,23,19,29,30",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "155,108,928,1503,1451,1559,57,1657,450,553,608,497,328,381,668,766,821,715,226,273,1014,1125,1189,1070,883,1287,1348",
-                        "endColumns": "35,45,47,54,50,64,49,48,45,53,58,54,51,67,45,53,58,49,45,53,54,60,56,53,43,59,61",
-                        "endOffsets": "186,149,971,1553,1497,1619,102,1701,491,602,662,547,375,444,709,815,875,760,267,322,1064,1181,1241,1119,922,1342,1405"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "108,144,190,238,293,344,409,459,508,554,608,667,722,774,842,888,942,1001,1051,1097,1151,1206,1267,1324,1378,1422,1482",
-                        "endColumns": "35,45,47,54,50,64,49,48,45,53,58,54,51,67,45,53,58,49,45,53,54,60,56,53,43,59,61",
-                        "endOffsets": "139,185,233,288,339,404,454,503,549,603,662,717,769,837,883,937,996,1046,1092,1146,1201,1262,1319,1373,1417,1477,1539"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\src\\main\\res\\values\\colors_reminder.xml",
+                    "source": "C:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\src\\main\\res\\values\\colors_reminder.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",

@@ -1,4 +1,4 @@
-#Wed Jul 04 16:16:19 BRT 2018
-base.0=C\:\\Users\\luan.caldas\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+#Wed Jul 04 23:45:03 BRT 2018
+base.0=C\:\\Users\\Iago Caitano\\Documents\\GitHub\\testsAndroid\\release-1\\base\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex
